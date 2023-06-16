@@ -1,6 +1,4 @@
 # creative-making
-## YOUTUBE link1 (Exhibition Projects）：https://youtu.be/3LVkwf4Isuk
-![template](https://github.com/maanqii/creative-making/assets/119876408/a6c9aaae-3735-4e7d-95e4-4dd3789981d5)
 
 ## YOUTUBE link2 (VR project)：https://youtu.be/8iMgcK5z8dA
 
@@ -381,3 +379,4 @@ Then we detect the collision between the Painter and the stroke, and if we hit i
 
 In order for the collision to occur smoothly, we also need to set the collision preset for Painter and BP_stroke
 
+## YOUTUBE link2 (Exhibition Projects）：https://youtu.be/3LVkwf4Isuk
