@@ -1,6 +1,6 @@
 # creative-making
 
-## YOUTUBE link2 (VR project)：https://youtu.be/8iMgcK5z8dA
+## YOUTUBE link1 (VR project)：https://youtu.be/8iMgcK5z8dA
 
 ## Project files link: https://1drv.ms/u/s!Aj3rNlM23GydiAyNKb1d0weamfcd 
 I will describe how my work is made and offer it to those who are interested.
