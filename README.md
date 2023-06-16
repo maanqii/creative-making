@@ -1,5 +1,10 @@
 # creative-making
-## YOUTUBE link：https://youtu.be/8iMgcK5z8dA
+
+## YOUTUBE link(VR project)：https://youtu.be/8iMgcK5z8dA
+## YOUTUBE link(Exhibition Projects）：https://youtu.be/3LVkwf4Isuk
+![template](https://github.com/maanqii/creative-making/assets/119876408/a6c9aaae-3735-4e7d-95e4-4dd3789981d5)
+
+
 ## Project files link: https://1drv.ms/u/s!Aj3rNlM23GydiAyNKb1d0weamfcd 
 I will describe how my work is made and offer it to those who are interested.
 
